@@ -1,0 +1,10 @@
+// A status field corresponds to ["status", [time in seconds for which it will show]]
+
+{
+	"emoji":"",
+	"token":"",
+	"statuses":[
+		["", 0],
+		["", 0]
+	]
+}
