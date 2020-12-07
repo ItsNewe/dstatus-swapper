@@ -1,9 +1,6 @@
 import json
 from time import sleep
 import discord
-from discord.ext import tasks
-import requests
-from hyper.contrib import HTTP20Adapter
 from config import configDict
 
 client = discord.Client()
